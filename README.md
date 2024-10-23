@@ -1,5 +1,7 @@
 # Hi there! I'm Deekshith 👋
 
+I'm a passionate coder who loves building cool projects and exploring new technologies.
+
 <!--
 **DiixiiT/DiixiiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+- 💻 Coding enthusiast
+- 🌱 Continuously exploring new tech
+- 📫 Feel free to reach out!
 
 
 ## 🔧 Technologies & Tools
