@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! I'm Deekshith 👋
 
 <!--
 **DiixiiT/DiixiiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🔧 Technologies & Tools
+- Languages: JavaScript, Python, C++.
+- Frameworks: FastAPI, Flask, React, Node.js.
+- Database: MySQL, PostgreSQL
+- Tools: Git, Docker.
